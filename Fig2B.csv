@@ -1,0 +1,81 @@
+﻿Taxon_Shortname,LBL,CI_ID_low,CI_ID_high,Var.Exp,Var.Exp.NR
+PWY_GLYCOLYSIS..glycolysis.I..from.glucose.6.phosphate.,*,0.04,0.32,Additive genetics,0.182728933
+PWY.6125..superpathway.of.guanosine.nucleotides.de.novo.biosynthesis.II,*,0.05,0.32,Additive genetics,0.182763209
+PWY.5484..glycolysis.II..from.fructose.6.phosphate.,*,0.04,0.32,Additive genetics,0.185652043
+PWY.7197..pyrimidine.deoxyribonucleotide.phosphorylation,*,0.03,0.29,Additive genetics,0.187225407
+PWY.7228..superpathway.of.guanosine.nucleotides.de.novo.biosynthesis.I,*,0.05,0.32,Additive genetics,0.18812774
+PWY.5973..cis.vaccenate.biosynthesis,*,0.03,0.33,Additive genetics,0.191260009
+COBALSYN.PWY..adenosylcobalamin.salvage.from.cobinamide.I,*,0.05,0.33,Additive genetics,0.191985687
+PWY.621..sucrose.degradation.III..sucrose.invertase.,*,0.05,0.34,Additive genetics,0.196446468
+PWY.7663..gondoate.biosynthesis..anaerobic.,*,0.04,0.34,Additive genetics,0.197197917
+RHAMCAT.PWY..L.rhamnose.degradation.I,**,0.05,0.35,Additive genetics,0.199561751
+ANAEROFRUCAT.PWY..homolactic.fermentation,*,0.06,0.35,Additive genetics,0.204104146
+PWY.5667..CDP.diacylglycerol.biosynthesis.I,*,0.07,0.34,Additive genetics,0.204139144
+PWY0.1319..CDP.diacylglycerol.biosynthesis.II,*,0.07,0.34,Additive genetics,0.204179689
+PANTO.PWY..phosphopantothenate.biosynthesis.I,*,0.07,0.34,Additive genetics,0.207522876
+PWY.6703..preQ0.biosynthesis,**,0.08,0.35,Additive genetics,0.215832525
+PWY.5101..L.isoleucine.biosynthesis.II,**,0.09,0.36,Additive genetics,0.229610769
+X1CMET2.PWY..N10.formyl.tetrahydrofolate.biosynthesis,**,0.08,0.39,Additive genetics,0.240430173
+NAGLIPASYN.PWY..lipid.IVA.biosynthesis,**,0.14,0.39,Additive genetics,0.26629737
+PYRIDOXSYN.PWY..pyridoxal.5..phosphate.biosynthesis.I,**,0.11,0.41,Additive genetics,0.267328419
+PWY0.845..superpathway.of.pyridoxal.5..phosphate.biosynthesis.and.salvage,**,0.14,0.4,Additive genetics,0.2724973
+PWY_GLYCOLYSIS..glycolysis.I..from.glucose.6.phosphate.,*,0.04,0.32,Cohousing,0.060976814
+PWY.6125..superpathway.of.guanosine.nucleotides.de.novo.biosynthesis.II,*,0.05,0.32,Cohousing,0.059016187
+PWY.5484..glycolysis.II..from.fructose.6.phosphate.,*,0.04,0.32,Cohousing,0.058492412
+PWY.7197..pyrimidine.deoxyribonucleotide.phosphorylation,*,0.03,0.29,Cohousing,0.062349545
+PWY.7228..superpathway.of.guanosine.nucleotides.de.novo.biosynthesis.I,*,0.05,0.32,Cohousing,0.062437592
+PWY.5973..cis.vaccenate.biosynthesis,*,0.03,0.33,Cohousing,0.039666046
+COBALSYN.PWY..adenosylcobalamin.salvage.from.cobinamide.I,*,0.05,0.33,Cohousing,0.059246633
+PWY.621..sucrose.degradation.III..sucrose.invertase.,*,0.05,0.34,Cohousing,0.059557958
+PWY.7663..gondoate.biosynthesis..anaerobic.,*,0.04,0.34,Cohousing,0.041124985
+RHAMCAT.PWY..L.rhamnose.degradation.I,**,0.05,0.35,Cohousing,0.031101371
+ANAEROFRUCAT.PWY..homolactic.fermentation,*,0.06,0.35,Cohousing,0.034275083
+PWY.5667..CDP.diacylglycerol.biosynthesis.I,*,0.07,0.34,Cohousing,0.029119025
+PWY0.1319..CDP.diacylglycerol.biosynthesis.II,*,0.07,0.34,Cohousing,0.029136123
+PANTO.PWY..phosphopantothenate.biosynthesis.I,*,0.07,0.34,Cohousing,0.039525881
+PWY.6703..preQ0.biosynthesis,**,0.08,0.35,Cohousing,0.039285572
+PWY.5101..L.isoleucine.biosynthesis.II,**,0.09,0.36,Cohousing,0.107902487
+X1CMET2.PWY..N10.formyl.tetrahydrofolate.biosynthesis,**,0.08,0.39,Cohousing,0.048755108
+NAGLIPASYN.PWY..lipid.IVA.biosynthesis,**,0.14,0.39,Cohousing,0.047889796
+PYRIDOXSYN.PWY..pyridoxal.5..phosphate.biosynthesis.I,**,0.11,0.41,Cohousing,0.100077235
+PWY0.845..superpathway.of.pyridoxal.5..phosphate.biosynthesis.and.salvage,**,0.14,0.4,Cohousing,0.104658489
+PWY_GLYCOLYSIS..glycolysis.I..from.glucose.6.phosphate.,*,0.04,0.32,Family,0
+PWY.6125..superpathway.of.guanosine.nucleotides.de.novo.biosynthesis.II,*,0.05,0.32,Family,0
+PWY.5484..glycolysis.II..from.fructose.6.phosphate.,*,0.04,0.32,Family,0
+PWY.7197..pyrimidine.deoxyribonucleotide.phosphorylation,*,0.03,0.29,Family,0.001747142
+PWY.7228..superpathway.of.guanosine.nucleotides.de.novo.biosynthesis.I,*,0.05,0.32,Family,0
+PWY.5973..cis.vaccenate.biosynthesis,*,0.03,0.33,Family,0.005048471
+COBALSYN.PWY..adenosylcobalamin.salvage.from.cobinamide.I,*,0.05,0.33,Family,0
+PWY.621..sucrose.degradation.III..sucrose.invertase.,*,0.05,0.34,Family,0
+PWY.7663..gondoate.biosynthesis..anaerobic.,*,0.04,0.34,Family,0.005744945
+RHAMCAT.PWY..L.rhamnose.degradation.I,**,0.05,0.35,Family,0.01108162
+ANAEROFRUCAT.PWY..homolactic.fermentation,*,0.06,0.35,Family,1.05E-08
+PWY.5667..CDP.diacylglycerol.biosynthesis.I,*,0.07,0.34,Family,9.02E-11
+PWY0.1319..CDP.diacylglycerol.biosynthesis.II,*,0.07,0.34,Family,1.70E-09
+PANTO.PWY..phosphopantothenate.biosynthesis.I,*,0.07,0.34,Family,6.36E-10
+PWY.6703..preQ0.biosynthesis,**,0.08,0.35,Family,2.08E-10
+PWY.5101..L.isoleucine.biosynthesis.II,**,0.09,0.36,Family,0
+X1CMET2.PWY..N10.formyl.tetrahydrofolate.biosynthesis,**,0.08,0.39,Family,0.012036396
+NAGLIPASYN.PWY..lipid.IVA.biosynthesis,**,0.14,0.39,Family,0
+PYRIDOXSYN.PWY..pyridoxal.5..phosphate.biosynthesis.I,**,0.11,0.41,Family,0.009544228
+PWY0.845..superpathway.of.pyridoxal.5..phosphate.biosynthesis.and.salvage,**,0.14,0.4,Family,1.31E-06
+PWY_GLYCOLYSIS..glycolysis.I..from.glucose.6.phosphate.,*,0.04,0.32,Environment,0.756294253
+PWY.6125..superpathway.of.guanosine.nucleotides.de.novo.biosynthesis.II,*,0.05,0.32,Environment,0.758220604
+PWY.5484..glycolysis.II..from.fructose.6.phosphate.,*,0.04,0.32,Environment,0.755855546
+PWY.7197..pyrimidine.deoxyribonucleotide.phosphorylation,*,0.03,0.29,Environment,0.748677906
+PWY.7228..superpathway.of.guanosine.nucleotides.de.novo.biosynthesis.I,*,0.05,0.32,Environment,0.749434668
+PWY.5973..cis.vaccenate.biosynthesis,*,0.03,0.33,Environment,0.764025474
+COBALSYN.PWY..adenosylcobalamin.salvage.from.cobinamide.I,*,0.05,0.33,Environment,0.74876768
+PWY.621..sucrose.degradation.III..sucrose.invertase.,*,0.05,0.34,Environment,0.743995574
+PWY.7663..gondoate.biosynthesis..anaerobic.,*,0.04,0.34,Environment,0.755932153
+RHAMCAT.PWY..L.rhamnose.degradation.I,**,0.05,0.35,Environment,0.758255259
+ANAEROFRUCAT.PWY..homolactic.fermentation,*,0.06,0.35,Environment,0.761620761
+PWY.5667..CDP.diacylglycerol.biosynthesis.I,*,0.07,0.34,Environment,0.76674183
+PWY0.1319..CDP.diacylglycerol.biosynthesis.II,*,0.07,0.34,Environment,0.766684186
+PANTO.PWY..phosphopantothenate.biosynthesis.I,*,0.07,0.34,Environment,0.752951242
+PWY.6703..preQ0.biosynthesis,**,0.08,0.35,Environment,0.744881902
+PWY.5101..L.isoleucine.biosynthesis.II,**,0.09,0.36,Environment,0.662486744
+X1CMET2.PWY..N10.formyl.tetrahydrofolate.biosynthesis,**,0.08,0.39,Environment,0.698778324
+NAGLIPASYN.PWY..lipid.IVA.biosynthesis,**,0.14,0.39,Environment,0.685812834
+PYRIDOXSYN.PWY..pyridoxal.5..phosphate.biosynthesis.I,**,0.11,0.41,Environment,0.623050118
+PWY0.845..superpathway.of.pyridoxal.5..phosphate.biosynthesis.and.salvage,**,0.14,0.4,Environment,0.622842906
